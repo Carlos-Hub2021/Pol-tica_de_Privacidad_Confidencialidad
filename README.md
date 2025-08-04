@@ -1,6 +1,7 @@
 # 🐑 Rancho el Bien Amado - E-commerce de Productos Naturales
 
-![Banner del Proyecto](public/public/Rancho.jpg) <!-- Opcional: añade tu imagen banner -->
+![Banner del Proyecto](public/Rancho.jpg)
+
 
 Plataforma de e-commerce especializada en la venta de productos naturales como cortes de cordero, huevos de libre pastoreo, miel artesanal y quesos de oveja.
 
